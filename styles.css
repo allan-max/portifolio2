@@ -168,7 +168,7 @@ body {
 }
 
 .solar-system.menu-open {
-    transform: translate(calc(-70% - 12vw), -50%);
+    transform: translate(calc(-85% - 12vw), -50%);
 }
 
 .sun {
