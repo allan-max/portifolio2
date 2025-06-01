@@ -1008,6 +1008,6 @@ body {
     }
     
     .solar-system.menu-open {
-        transform: translate(calc(-50% - 6vw), -50%);
+        transform: translate(calc(-80% - 6vw), -50%);
     }
 }   
